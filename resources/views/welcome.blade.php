@@ -595,7 +595,7 @@
                     <?php $y = date('Y');?>
                     <p>Copyright ©{{ $y }}. Designed by<a
                             href="https://bintangtobing.com?utm_source=website-test-nri&utm_medium=footer&utm_campaign=website-test-nri"
-                            style="color:#fff;text-decoration:none" target="_blank">Bintang Tobing</a></p>
+                            style="color:#fff;text-decoration:none" target="_blank">&nbsp;Bintang Tobing</a></p>
                     <ul class="footer_social">
                         <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                         <li><a href="#"><i class="fa fa-pinterest"></i></a></li>
@@ -618,6 +618,19 @@
     <script src="{{asset('fe/js/jquery.vegas.js')}}"></script>
     <script src="{{asset('fe/js/plugins.js')}}"></script>
     <script src="{{asset('fe/js/custom.js')}}"></script>
+    <!--Start of Tawk.to Script-->
+    <script type="text/javascript">
+        var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+    (function(){
+    var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+    s1.async=true;
+    s1.src='https://embed.tawk.to/677ceb63af5bfec1dbe7be3d/1igvvevs5';
+    s1.charset='UTF-8';
+    s1.setAttribute('crossorigin','*');
+    s0.parentNode.insertBefore(s1,s0);
+    })();
+    </script>
+    <!--End of Tawk.to Script-->
 </body>
 
 </html>
