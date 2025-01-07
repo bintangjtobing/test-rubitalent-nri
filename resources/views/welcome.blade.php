@@ -97,7 +97,8 @@
                 <div class="col-md-12 text-center">
                     <h1>Hire the Best - Without the Stress!</h1>
                     <p>We offer a 10-step hiring process, managing filtering, vetting, testing, and background checks,
-                        so you can focus on growing your business.</p><a href="#" class="btn-white">Explore Benefits</a>
+                        so you can focus on growing your business.</p><a href="#features" class="btn-white">Explore
+                        Benefits</a>
                 </div>
             </div>
         </div>
@@ -193,7 +194,7 @@
                         <li><i class="fa fa-check lyla"></i>Comprehensive screening and skill-based testing.</li>
                         <li><i class="fa fa-check lyla"></i>Thorough background and reference checks.</li>
                         <li><i class="fa fa-check lyla"></i>End-to-end support for offers and contracts.</li>
-                    </ul><a href="#" class="btn btn-lg btn-blue">Learn More</a>
+                    </ul><a href="#about" class="btn btn-lg btn-blue">Learn More</a>
                 </div>
             </div>
         </div>
