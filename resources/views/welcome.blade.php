@@ -60,7 +60,8 @@
                             class="icon-bar"></span><span class="icon-bar"></span><span
                             class="icon-bar"></span></button><a href="/" class="navbar-brand" id="logo"><img
                             src="https://res.cloudinary.com/dilb4d364/image/upload/w_1000/q_auto/f_auto/v1736227399/6_y9hyz3.png"
-                            alt="Pacifico Logo" style="max-height:50px;width:auto"></a></div>
+                            alt="RubiTalent Logo - Your Recruitment Partner" style="max-height:50px;width:auto"></a>
+                </div>
                 <div id="navbar-collapse-02" class="collapse navbar-collapse">
                     <ul class="nav navbar-nav navbar-right">
                         <li><a href="#home_wrapper">Home</a></li>
@@ -163,7 +164,8 @@
                     <div class="youtube-video-wrapper">
                         <div class="popup-gallery"><img
                                 src="https://res.cloudinary.com/dilb4d364/image/upload/w_1000/q_auto/f_auto/v1736229267/4_u5cy6f.png"
-                                alt="Video Thumbnail" style="width:100%;border-radius:10px"></div>
+                                alt="Discover the Secrets to Hiring Better - RubiTalent Process"
+                                style="width:100%;border-radius:10px"></div>
                     </div>
                 </div>
                 <div class="col-md-6">
@@ -191,7 +193,7 @@
                 <div class="col-sm-6 col-md-4">
                     <div class="team-item"><img
                             src="https://img.freepik.com/free-psd/expressive-woman-gesturing_23-2150198673.jpg"
-                            class="team-img" alt="Uli">
+                            class="team-img" alt="Uli - at RubiTalent">
                         <h3>Uli</h3>
                         <div class="team-info">
                             <p>Talent Acquisitions Manager</p>
@@ -209,7 +211,7 @@
                 <div class="col-sm-6 col-md-4">
                     <div class="team-item"><img
                             src="https://img.freepik.com/free-photo/young-male-posing-isolated-against-blank-studio-wall_273609-12356.jpg"
-                            class="team-img" alt="Howard">
+                            class="team-img" alt="Howard - at RubiTalent">
                         <h3>Howard</h3>
                         <div class="team-info">
                             <p>General Manager</p>
@@ -227,7 +229,7 @@
                 <div class="col-sm-6 col-md-4">
                     <div class="team-item"><img
                             src="https://img.freepik.com/free-psd/front-view-man-with-blank-shirt_23-2150182888.jpg"
-                            class="team-img" alt="Buddy">
+                            class="team-img" alt="Buddy - at RubiTalent">
                         <h3>Buddy</h3>
                         <div class="team-info">
                             <p>Founder</p>
@@ -255,35 +257,35 @@
                     <div id="owl1" class="owl-carousel owl-theme">
                         <div class="testim-inner"><img
                                 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDtZmicM0DEaccew0bjT4vDV6juMDCCAhEtQ&s"
-                                alt="Talent Photo" class="testim-img">
+                                alt="Talent Spotlight" class="testim-img">
                             <h5>John D.</h5>
                             <p class="role">Web Designer - 5 years exp</p>
                             <p class="rate">Rate: $50/hour</p><a href="#" class="btn btn-sm btn-blue">More Info</a>
                         </div>
                         <div class="testim-inner"><img
                                 src="https://img.freepik.com/free-photo/horizontal-portrait-smiling-happy-young-pleasant-looking-female-wears-denim-shirt-stylish-glasses-with-straight-blonde-hair-expresses-positiveness-poses_176420-13176.jpg"
-                                alt="Talent Photo" class="testim-img">
+                                alt="Talent Spotlight" class="testim-img">
                             <h5>Mary S.</h5>
                             <p class="role">Graphic Designer - 8 years exp</p>
                             <p class="rate">Rate: $60/hour</p><a href="#" class="btn btn-sm btn-blue">More Info</a>
                         </div>
                         <div class="testim-inner"><img
                                 src="https://img.freepik.com/free-psd/portrait-man-teenager-isolated_23-2151745771.jpg"
-                                alt="Talent Photo" class="testim-img">
+                                alt="Talent Spotlight" class="testim-img">
                             <h5>Alex T.</h5>
                             <p class="role">SEO Specialist - 4 years exp</p>
                             <p class="rate">Rate: $40/hour</p><a href="#" class="btn btn-sm btn-blue">More Info</a>
                         </div>
                         <div class="testim-inner"><img
                                 src="https://img.freepik.com/free-vector/minimalist-geometric-judith-s-tiktok-profile-picture_742173-12131.jpg"
-                                alt="Talent Photo" class="testim-img">
+                                alt="Talent Spotlight" class="testim-img">
                             <h5>Lucy M.</h5>
                             <p class="role">Content Writer - 6 years exp</p>
                             <p class="rate">Rate: $45/hour</p><a href="#" class="btn btn-sm btn-blue">More Info</a>
                         </div>
                         <div class="testim-inner"><img
                                 src="https://img.freepik.com/free-psd/person-celebrating-their-sexual-orientation_23-2150115662.jpg?semt=ais_hybrid"
-                                alt="Talent Photo" class="testim-img">
+                                alt="Talent Spotlight" class="testim-img">
                             <h5>Chris P.</h5>
                             <p class="role">App Developer - 7 years exp</p>
                             <p class="rate">Rate: $70/hour</p><a href="#" class="btn btn-sm btn-blue">More Info</a>
@@ -368,7 +370,7 @@
                 </div>
                 <div class="col-md-6"><img
                         src="https://res.cloudinary.com/dilb4d364/image/upload/w_1000/q_auto/f_auto/v1736233602/5_zhodjs.png"
-                        alt="RubiTalent Process" class="width-100"></div>
+                        alt="Simplified Recruitment Process with RubiTalent" class="width-100"></div>
             </div>
         </div>
     </section>
@@ -530,7 +532,8 @@
             <div class="row">
                 <div class="col-md-6"><img
                         src="https://res.cloudinary.com/dilb4d364/image/upload/w_1000/q_auto/f_auto/v1736235116/6_yi9o7u.png"
-                        alt="img" class="width-100 wow fadeInUp" data-wow-delay="0.25s"></div>
+                        alt="A La Carte Recruitment Services by RubiTalent" class="width-100 wow fadeInUp"
+                        data-wow-delay="0.25s"></div>
                 <div class="col-md-6">
                     <h2 class="section-title white padding-top-20">A La Carte Recruitment Services</h2>
                     <p class="section-subtitle white">Choose exactly what you need for your recruitment or workspace
