@@ -80,11 +80,11 @@
                 </div>
                 <div id="navbar-collapse-02" class="collapse navbar-collapse">
                     <ul class="nav navbar-nav navbar-right">
-                        <li><a href="#home_wrapper">Home</a></li>
+                        <li><a href="/">Home</a></li>
                         <li><a href="#about">About</a></li>
-                        <li><a href="#gallery">Services</a></li>
-                        <li><a href="#team">Contact</a></li>
-                        <li><a href="#contact" class="discover-btn">Get Started</a></li>
+                        <li><a href="#compare">Services</a></li>
+                        <li><a href="#company-info">Contact</a></li>
+                        <li><a href="#features" class="discover-btn">Get Started</a></li>
                     </ul>
                 </div>
             </div>
